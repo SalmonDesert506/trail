@@ -1,0 +1,4 @@
+name: Trail
+version: '${version}'
+main: me.yourname.trail.Trail
+api-version: 1.19
